@@ -16,10 +16,6 @@ public class GameLogicEngine extends Application {
         this.loadLevel();
     }
 
-    public String getString(){
-        return "test";
-    }
-
     public Question[] level;
     public int questionsOffset;
     public Question currQues;
