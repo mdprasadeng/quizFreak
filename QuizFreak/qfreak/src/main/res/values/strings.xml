@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz Freak</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_hangman"> HangMan </string>
+    <string name="menu_anagram">Anagram</string>
+    <string name="menu_truerfalse">True or False</string>
+    <string name="menu_mcq">Multiple Choice</string>
+    <string name="title_activity_game_type">GameTypeActivity</string>
+    <string name="title_activity_hangman">HangmanActivity</string>
+    <string name="title_activity_anagram">AnagramActivity</string>
+    <string name="title_activity_truerfalse">TruerfalseActivity</string>
+    <string name="title_activity_mcq">MCQActivity</string>
+    <string name="title_activity_true_false">TrueFalseActivity</string>
+
+</resources>
